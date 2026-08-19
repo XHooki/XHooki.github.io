@@ -1,0 +1,9 @@
+{
+  "name": "纸飞机搜索指南",
+  "short_name": "搜索指南",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#07101d",
+  "theme_color": "#0b1220",
+  "icons": [{"src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml"}]
+}
